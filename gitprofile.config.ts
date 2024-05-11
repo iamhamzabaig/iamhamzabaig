@@ -14,7 +14,7 @@ const CONFIG = {
     github: {
       display: true, // Display GitHub projects?
       header: 'Github Projects',
-      mode: 'manual', // Mode can be: 'automatic' or 'manual'
+      mode: 'automatic', // Mode can be: 'automatic' or 'manual'
       automatic: {
         sortBy: 'updated', // Sort projects by 'stars' or 'updated'
         limit: 4, // How many projects to display.
@@ -36,9 +36,8 @@ const CONFIG = {
           title: 'Point Of Sale',
           description:
             'Inventory management, Sales and transactions, Employee management, Multi-Location Support',
-            
-          imageUrl:
-            'https://www.dropbox.com/scl/fi/owuuvf0w9x5e1y2l816uv/pos.jpg?rlkey=mfb7pribt9guxptma5w7htsgp&st=9jp1o2du&dl=0',
+
+          imageUrl: '/src/assets/images/pos.jpg',
           // link: 'https://example.com',
         },
         {
@@ -96,13 +95,6 @@ const CONFIG = {
     'PrimeNG',
     'React.js',
     'Git',
-    // 'Node.js',
-    // 'Nest.js',
-    // 'MySQL',
-    // 'PostgreSQL',
-    // 'Docker',
-    // 'PHPUnit',
-    // 'Antd',
   ],
   experiences: [
     {
@@ -170,11 +162,11 @@ const CONFIG = {
     },
   ],
   // Display articles from your medium or dev account. (Optional)
-  blog: {
-    source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
-    limit: 2, // How many articles to display. Max is 10.
-  },
+  // blog: {
+  //   source: 'dev', // medium | dev
+  //   username: 'arifszn', // to hide blog section, keep it empty
+  //   limit: 2, // How many articles to display. Max is 10.
+  // },
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
   },
