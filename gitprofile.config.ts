@@ -38,7 +38,7 @@ const CONFIG = {
             'Inventory management, Sales and transactions, Employee management, Multi-Location Support',
             
           imageUrl:
-            'https://www.dropbox.com/scl/fi/owuuvf0w9x5e1y2l816uv/pos.jpg?rlkey=mfb7pribt9guxptma5w7htsgp&st=tbtfv6x3&dl=0',
+            'https://www.dropbox.com/scl/fi/owuuvf0w9x5e1y2l816uv/pos.jpg?rlkey=mfb7pribt9guxptma5w7htsgp&st=9jp1o2du&dl=0',
           // link: 'https://example.com',
         },
         {
