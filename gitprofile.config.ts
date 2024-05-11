@@ -33,11 +33,11 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Point Of Sale',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Inventory management, Sales and transactions, Employee management, Multi-Location Support',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            './src/assets/images/pos.png',
           link: 'https://example.com',
         },
         {
@@ -52,7 +52,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Hamza Munawar',
     description: '',
     imageURL: '',
   },
