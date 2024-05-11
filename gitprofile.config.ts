@@ -36,9 +36,10 @@ const CONFIG = {
           title: 'Point Of Sale',
           description:
             'Inventory management, Sales and transactions, Employee management, Multi-Location Support',
+            
           imageUrl:
-            './src/assets/images/pos.png',
-          link: 'https://example.com',
+            'https://www.dropbox.com/scl/fi/owuuvf0w9x5e1y2l816uv/pos.jpg?rlkey=mfb7pribt9guxptma5w7htsgp&st=krayi3aj&dl=0',
+          // link: 'https://example.com',
         },
         {
           title: 'Project Name',
