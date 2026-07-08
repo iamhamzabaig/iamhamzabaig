@@ -1,54 +1,43 @@
-### Hi 👋 I'm Hamza Munawar
+# Hi, I'm Hamza Munawar
 
-Full-Stack Software Engineer · Angular · React · Node.js · ASP.NET  
-[Portfolio](https://portfolio-blond-eta-cyyolwe9eu.vercel.app/) · [LinkedIn](https://linkedin.com/in/hamzamunawar) · [Email](mailto:hamzamunawar.webdev@gmail.com)
+I'm Hamza Munawar, a developer working across TypeScript, HTML, JavaScript with 50 visible repositories and an active GitHub contribution history.
 
----
+## GitHub Snapshot
 
-#### 🛰️ Featured project — [daily-data-scraper](https://github.com/iamhamzabaig/daily-data-scraper)
+- Repositories visible to this generator: 50
+- Pull requests authored: 5
+- Issues authored: 0
+- Commits found by GitHub search: 891
+- Followers: 0
 
-[![Last update](https://img.shields.io/github/last-commit/iamhamzabaig/daily-data-scraper/main?label=last%20update&color=brightgreen)](https://github.com/iamhamzabaig/daily-data-scraper/commits/main)
-[![Daily data scrape](https://github.com/iamhamzabaig/daily-data-scraper/actions/workflows/scrape.yml/badge.svg)](https://github.com/iamhamzabaig/daily-data-scraper/actions/workflows/scrape.yml)
+## Languages I Use
 
-A [git-scraping](https://simonwillison.net/2020/Oct/9/git-scraping/) project: a GitHub Action runs **twice a day**, pulls 10 free public data sources, and commits a real time-series diff each run. Standard-library Python, zero dependencies.
+- TypeScript (9 repos)
+- HTML (9 repos)
+- JavaScript (8 repos)
+- CSS (4 repos)
+- Python (1 repos)
+- Rust (1 repos)
+- Svelte (1 repos)
+- C# (1 repos)
 
-| Source | What it tracks |
-|--------|----------------|
-| CoinGecko | BTC / ETH prices |
-| open.er-api.com | USD exchange rates |
-| Open-Meteo | London weather |
-| USGS | Earthquakes (last 24h) |
-| Hacker News API | Top story snapshot |
-| wheretheiss.at | ISS position |
-| GitHub API | Linux repo stars / forks / issues |
-| Open-Meteo | London air quality (PM2.5 / PM10 / US AQI) |
-| sunrise-sunset.org | Sunrise / sunset / day length |
-| Blockchain.com | BTC hash rate / difficulty |
+## Highlight Projects
 
----
+- [iamhamzabaig/daily-data-scraper](https://github.com/iamhamzabaig/daily-data-scraper) (0 stars | Python)
+- [iamhamzabaig/portfolio](https://github.com/iamhamzabaig/portfolio) - MERN portfolio — decoupled Express/Mongoose API + React SPA (0 stars | JavaScript)
+- [iamhamzabaig/iamhamzabaig](https://github.com/iamhamzabaig/iamhamzabaig) (0 stars)
+- [iamhamzabaig/neon-pgsql](https://github.com/iamhamzabaig/neon-pgsql) (0 stars)
+- [iamhamzabaig/inventory-dotnet-api](https://github.com/iamhamzabaig/inventory-dotnet-api) (0 stars)
+- [iamhamzabaig/license-console](https://github.com/iamhamzabaig/license-console) (0 stars | Rust)
 
-#### 🔧 Tech Stack
+## Recent Activity
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-
----
-
-#### 🚀 Selected Projects
-
-| Project | Stack | Link |
-|---------|-------|------|
-| **Oreius ERP** — modular enterprise ERP (CRM, HR, Payroll, Finance) | Angular · ASP.NET · MySQL · Nx | — |
-| **Bitcyllionaire** — event platform with tickets, leaderboard & payments | React · GraphQL · Stripe · Zustand | [↗](https://www.bitcyllionaire.com/) |
-| **The AB Foods** — corporate site with animated page transitions | React · Vite · Framer Motion | [↗](https://theabfoods.com/) |
-| **Oreius Voting App** — real-time voting with live results dashboard | React · Express · Socket.io · MongoDB | — |
+- iamhamzabaig recently updated iamhamzabaig/daily-data-scraper
+- iamhamzabaig recently updated iamhamzabaig/portfolio
+- iamhamzabaig recently updated iamhamzabaig/coolify
+- iamhamzabaig recently updated iamhamzabaig/iamhamzabaig
+- iamhamzabaig recently updated iamhamzabaig/neon-pgsql
 
 ---
 
-#### 📫 Get in touch
-
-[hamzamunawar.webdev@gmail.com](mailto:hamzamunawar.webdev@gmail.com) · [Portfolio](https://portfolio-blond-eta-cyyolwe9eu.vercel.app/)
+Generated with GitHub README Builder.
