@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:0EA5E9&height=220&section=header&text=Hamza%20Munawar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Islamabad,%20Pakistan&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:0EA5E9&height=220&section=header&text=Hamza%20Munawar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Islamabad,%20Pakistan&descAlignY=58&descSize=18" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=640&lines=Building+ERP+systems+%40+Code+Agrius;Angular+%C2%B7+React+%C2%B7+Node.js+%C2%B7+MongoDB;Exploring+.NET+%2B+AI-assisted+workflows" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=680&lines=Building+ERP+systems+%40+Code+Agrius;Angular+%C2%B7+React+%C2%B7+Node.js+%C2%B7+MongoDB;Building+AI+agents+%26+LLM-powered+apps;Exploring+.NET+%2B+AI-assisted+workflows" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -29,8 +29,9 @@ const hamza = {
   role: "Fullstack Engineer @ Code Agrius",
   focus: "Nx Monorepo ERP — CRM & HR modules",
   stack: ["Angular", "React", "Node.js", "Express", "MongoDB", "Docker"],
+  ai: ["LLM APIs", "AI Agents", "RAG", "Prompt Engineering"],
   learning: [".NET Minimal APIs", "Clean Architecture", "EF Core"],
-  building: "angular-nx-blueprint — NgRx SignalStore + Material M3",
+  building: "agent-mesh — multi-agent orchestration",
   location: "Islamabad, Pakistan 🇵🇰"
 };
 ```
@@ -42,14 +43,14 @@ const hamza = {
 **🔭 Currently**
 Nx monorepo ERP, CRM & HR
 
+**🤖 AI Engineering**
+LLM agents, RAG pipelines
+
 **🌱 Learning**
 .NET, Clean Architecture
 
 **🛠️ Building**
-`angular-nx-blueprint`
-
-**⚡ Exploring**
-AI-assisted dev workflows
+`agent-mesh` · `angular-nx-blueprint`
 
 </td>
 </tr>
@@ -61,7 +62,15 @@ AI-assisted dev workflows
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,angular,react,nodejs,express,mongodb,docker,dotnet,cs,html,css,py,rust&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=ts,js,angular,react,nodejs,express,mongodb,docker,dotnet,cs,py,rust,html,css&theme=dark&perline=7" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI_Agents-0EA5E9?style=for-the-badge" />
 
 </div>
 
@@ -74,7 +83,7 @@ AI-assisted dev workflows
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=iamhamzabaig&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhamzabaig&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9" />
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamhamzabaig&theme=radical&hide_border=true&background=0d1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=iamhamzabaig&theme=radical&hide_border=true&background=0d1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
 
 <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamhamzabaig&theme=react-dark&hide_border=true&bg_color=0d1117&color=38BDF8&line=2563EB&point=ffffff" />
 
@@ -95,43 +104,11 @@ AI-assisted dev workflows
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:2563EB&height=3" />
 
-## &nbsp;🚀&nbsp; Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/iamhamzabaig/portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=iamhamzabaig&repo=portfolio&theme=radical&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/iamhamzabaig/angular-architecture-boilerplate">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=iamhamzabaig&repo=angular-architecture-boilerplate&theme=radical&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/iamhamzabaig/agent-mesh">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=iamhamzabaig&repo=agent-mesh&theme=radical&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/iamhamzabaig/snapinp">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=iamhamzabaig&repo=snapinp&theme=radical&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9" />
-</a>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:0EA5E9&height=3" />
-
-## &nbsp;🏆&nbsp; Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=iamhamzabaig&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:2563EB&height=3" />
-
 ## &nbsp;📈&nbsp; Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/iamhamzabaig/iamhamzabaig/output/github-contribution-grid-snake-dark.svg" />
 
 <sub><i>Note: renders once the <a href="https://github.com/Platane/snk">snake workflow</a> is added to this repo</i></sub>
 
