@@ -76,6 +76,20 @@ LLM agents, RAG pipelines
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:0EA5E9&height=3" />
 
+## &nbsp;🚀&nbsp; Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/iamhamzabaig/agent-mesh"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=iamhamzabaig&repo=agent-mesh&theme=radical&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9" /></a>
+<a href="https://github.com/iamhamzabaig/snapinp"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=iamhamzabaig&repo=snapinp&theme=radical&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9" /></a>
+
+<a href="https://github.com/iamhamzabaig/portfolio"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=iamhamzabaig&repo=portfolio&theme=radical&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9" /></a>
+<a href="https://github.com/iamhamzabaig/portfolio-next"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=iamhamzabaig&repo=portfolio-next&theme=radical&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9" /></a>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:0EA5E9&height=3" />
+
 ## &nbsp;📊&nbsp; GitHub Analytics
 
 <div align="center">
