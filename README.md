@@ -1,212 +1,166 @@
 <div align="center">
 
-# Hamza Munawar (iamhamzabaig)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Hamza+%F0%9F%91%8B;Full+Stack+Developer;Angular+%2B+React+%2B+Node.js;Building+ERP+systems+%40+Code+Agrius" alt="Typing SVG" />
 
-I'm Hamza Munawar, a developer working across TypeScript, HTML, JavaScript with 50 visible repositories and an active GitHub contribution history.
+<br/>
 
-![Public Repos](https://img.shields.io/badge/Public%20Repos-39-2563eb?style=for-the-badge) ![Private Metadata](https://img.shields.io/badge/Private%20Metadata-11-475569?style=for-the-badge) ![Pull Requests](https://img.shields.io/badge/Pull%20Requests-8-0f766e?style=for-the-badge) ![Issues](https://img.shields.io/badge/Issues-0-7c3aed?style=for-the-badge)
-
-[![GitHub followers](https://img.shields.io/github/followers/iamhamzabaig?style=for-the-badge&logo=github)](https://github.com/iamhamzabaig?tab=followers) [![GitHub stars](https://img.shields.io/github/stars/iamhamzabaig?style=for-the-badge&logo=github)](https://github.com/iamhamzabaig?tab=repositories)
+[![GitHub followers](https://img.shields.io/github/followers/iamhamzabaig?style=for-the-badge&logo=github&color=2563eb&labelColor=0d1117)](https://github.com/iamhamzabaig?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=iamhamzabaig&style=for-the-badge&color=2563eb&labelColor=0d1117)](https://github.com/iamhamzabaig)
 
 </div>
 
-## Profile at a Glance
+<br/>
 
-- Based in Islamabad
-- Working with Code Agrius
-- 39 public repositories
-- 11 private repositories visible to the generator
-- 8 authored pull requests
-- 0 authored issues
+## 👨‍💻 About Me
 
-## Contribution Dashboard
+```yaml
+name: Hamza Munawar
+location: Islamabad, Pakistan
+role: Fullstack Engineer @ Code Agrius (Agrius IT)
+focus: Nx Monorepo ERP — CRM & HR modules
+currently_learning: .NET (Minimal APIs, Clean Architecture, EF Core)
+fun_fact: turns coffee into full-stack applications ☕
+```
 
-| Metric | Count |
-| --- | ---: |
-| Total repositories visible to generator | 50 |
-| Public repositories listed below | 39 |
-| Original public projects | 35 |
-| Forked public repositories | 4 |
-| Archived public repositories | 0 |
-| Authored pull requests | 8 |
-| Authored issues | 0 |
-| Commits found by GitHub search | 891 |
-| Followers | 0 |
-| Following | 1 |
+- 🔭 Working on a large-scale **Nx monorepo ERP system** with CRM & HR modules
+- 🌱 Deepening my skills in **.NET Core**, Clean Architecture & EF Core
+- 🛠️ Building **`angular-nx-blueprint`** — a reusable Angular Nx architecture template with NgRx SignalStore
+- 💬 Ask me about **Angular**, **React**, **Node.js/Express**, **MongoDB** or monorepo architecture
+- ⚡ Exploring AI-assisted developer workflows (Claude Code, dual-agent setups)
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iamhamzabaig&show_icons=true&theme=default&hide_border=true&count_private=true" alt="iamhamzabaig GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhamzabaig&layout=compact&hide_border=true" alt="iamhamzabaig top languages" />
-</p>
+<br/>
 
-## Technology Footprint
+## 🧰 Tech Stack
 
-| Language | Repository Count |
-| --- | ---: |
-| TypeScript | 9 |
-| HTML | 9 |
-| JavaScript | 8 |
-| CSS | 4 |
-| Python | 1 |
-| Rust | 1 |
-| Svelte | 1 |
-| C# | 1 |
+<div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-9%20repos-334155?style=for-the-badge) ![HTML](https://img.shields.io/badge/HTML-9%20repos-334155?style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-8%20repos-334155?style=for-the-badge) ![CSS](https://img.shields.io/badge/CSS-4%20repos-334155?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-1%20repos-334155?style=for-the-badge) ![Rust](https://img.shields.io/badge/Rust-1%20repos-334155?style=for-the-badge) ![Svelte](https://img.shields.io/badge/Svelte-1%20repos-334155?style=for-the-badge) ![C#](https://img.shields.io/badge/C%23-1%20repos-334155?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-## Featured Projects
+</div>
 
-### [iamhamzabaig/portfolio](https://github.com/iamhamzabaig/portfolio)
+<br/>
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=iamhamzabaig&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2563eb&icon_color=2563eb" alt="iamhamzabaig GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhamzabaig&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2563eb" alt="iamhamzabaig top languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamhamzabaig&theme=tokyonight&hide_border=true&background=0d1117&ring=2563eb&fire=2563eb" alt="iamhamzabaig streak stats" />
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center"><b>39</b><br/>Public Repos</td>
+<td align="center"><b>11</b><br/>Private Repos</td>
+<td align="center"><b>8</b><br/>Pull Requests</td>
+<td align="center"><b>891</b><br/>Commits Found</td>
+</tr>
+</table>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### [🌐 portfolio](https://github.com/iamhamzabaig/portfolio)
 MERN portfolio — decoupled Express/Mongoose API + React SPA
+<br/>`JavaScript`
 
-**Stack:** JavaScript  
-**Stars:** 0  
-**Forks:** 0  
-**Last updated:** Jul 07, 2026
+</td>
+<td width="50%">
 
-### [iamhamzabaig/angular-architecture-boilerplate](https://github.com/iamhamzabaig/angular-architecture-boilerplate)
+### [🏗️ angular-architecture-boilerplate](https://github.com/iamhamzabaig/angular-architecture-boilerplate)
+Personalized Angular architecture starter project
+<br/>`TypeScript`
 
-Personalize Project
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-**Stack:** TypeScript  
-**Stars:** 0  
-**Forks:** 0  
-**Last updated:** Apr 26, 2026
+### [🕸️ agent-mesh](https://github.com/iamhamzabaig/agent-mesh)
+Runtime task decomposition & parallel subagent orchestration for Node.js
+<br/>`TypeScript`
 
-### [iamhamzabaig/agent-mesh](https://github.com/iamhamzabaig/agent-mesh)
+</td>
+<td width="50%">
 
-untime task decomposition and parallel subagent orchestration for Node.js.
+### [⚡ snapinp](https://github.com/iamhamzabaig/snapinp)
+A tiny library that helps heavy UI interactions feel less frozen
+<br/>`TypeScript`
 
-**Stack:** TypeScript  
-**Stars:** 0  
-**Forks:** 0  
-**Last updated:** Apr 19, 2026
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-### [iamhamzabaig/snapinp](https://github.com/iamhamzabaig/snapinp)
+### [📄 portfolio-next](https://github.com/iamhamzabaig/portfolio-next)
+Personal portfolio built with Next.js and Express
+<br/>`Next.js`
 
-A tiny library that helps heavy UI interactions feel less frozen.
+</td>
+<td width="50%">
 
-**Stack:** TypeScript  
-**Stars:** 0  
-**Forks:** 0  
-**Last updated:** Apr 15, 2026
+### [🎬 livecast-clone](https://github.com/iamhamzabaig/livecast-clone)
+A learning project exploring livestream-style UI/UX
+<br/>`JavaScript`
 
-### [iamhamzabaig/portfolio-next](https://github.com/iamhamzabaig/portfolio-next)
+</td>
+</tr>
+</table>
 
-My personal portfolio built on next js and express.
+<br/>
 
-**Stack:** General  
-**Stars:** 0  
-**Forks:** 0  
-**Last updated:** Aug 01, 2025
+## 📁 Repository Language Breakdown
 
-### [iamhamzabaig/livecast-clone](https://github.com/iamhamzabaig/livecast-clone)
+| Language | Repos | Share |
+|---|---:|---|
+| TypeScript | 9 | ████████░░ |
+| HTML | 9 | ████████░░ |
+| JavaScript | 8 | ███████░░░ |
+| CSS | 4 | ████░░░░░░ |
+| Python | 1 | █░░░░░░░░░ |
+| Rust | 1 | █░░░░░░░░░ |
+| Svelte | 1 | █░░░░░░░░░ |
+| C# | 1 | █░░░░░░░░░ |
 
-This is just for learning purpose
+<br/>
 
-**Stack:** General  
-**Stars:** 0  
-**Forks:** 0  
-**Last updated:** Jun 30, 2025
+## 📬 Connect With Me
 
-## Complete Public Repository Portfolio
+<div align="center">
 
-Every public repository visible through GitHub OAuth is listed here. Private repositories are counted in the dashboard but not named to avoid accidentally publishing private project names.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamhamzabaig)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-blond-eta-cyyolwe9eu.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamhamzabaig)
 
-<details open>
-<summary><strong>Other</strong> (15)</summary>
+</div>
 
-| Repository | Description | Stack | Signals | Updated |
-| --- | --- | --- | --- | --- |
-| [iamhamzabaig/coolify](https://github.com/iamhamzabaig/coolify) | An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers. | General | stars 0 / forks 0 | Jul 01, 2026 |
-| [iamhamzabaig/KittenTTS](https://github.com/iamhamzabaig/KittenTTS) | State-of-the-art TTS model under 25MB 😻 | General | stars 0 / forks 0 | Jun 10, 2026 |
-| [iamhamzabaig/portfolio-next](https://github.com/iamhamzabaig/portfolio-next) | My personal portfolio built on next js and express. | General | stars 0 / forks 0 | Aug 01, 2025 |
-| [iamhamzabaig/livecast-clone](https://github.com/iamhamzabaig/livecast-clone) | This is just for learning purpose | General | stars 0 / forks 0 | Jun 30, 2025 |
-| [iamhamzabaig/fast-pizza-v1](https://github.com/iamhamzabaig/fast-pizza-v1) | A professional app for learning purpose | General | stars 0 / forks 0 | Nov 03, 2024 |
-| [iamhamzabaig/skills-introduction-to-github](https://github.com/iamhamzabaig/skills-introduction-to-github) | My clone repository | General | stars 0 / forks 0 | Nov 30, 2025 |
-| [iamhamzabaig/coding-interview-university](https://github.com/iamhamzabaig/coding-interview-university) | A complete computer science study plan to become a software engineer. | General | stars 0 / forks 0 | Oct 02, 2023 |
-| [iamhamzabaig/faraway-travel](https://github.com/iamhamzabaig/faraway-travel) | This is a fun project just for learning and practicing purpose. | General | stars 0 / forks 0 | Sep 03, 2023 |
-| [iamhamzabaig/calaculator.repo](https://github.com/iamhamzabaig/calaculator.repo) | A Basic Calculator Model which does basic operation. | General | stars 0 / forks 0 | Nov 19, 2022 |
-| [iamhamzabaig/tic-tac-toe-repo](https://github.com/iamhamzabaig/tic-tac-toe-repo) | My first project based on solely python. A tic tac toe game. | General | stars 0 / forks 0 | Oct 28, 2022 |
-| [iamhamzabaig/iamhamzabaig](https://github.com/iamhamzabaig/iamhamzabaig) | repository with 0 stars and 0 forks. | General | stars 0 / forks 0 | Jul 08, 2026 |
-| [iamhamzabaig/neon-pgsql](https://github.com/iamhamzabaig/neon-pgsql) | repository with 0 stars and 0 forks. | General | stars 0 / forks 0 | Jun 23, 2026 |
-| [iamhamzabaig/voting-app](https://github.com/iamhamzabaig/voting-app) | repository with 0 stars and 0 forks. | General | stars 0 / forks 0 | Jan 19, 2026 |
-| [iamhamzabaig/eat-n-split](https://github.com/iamhamzabaig/eat-n-split) | repository with 0 stars and 0 forks. | General | stars 0 / forks 0 | Sep 03, 2023 |
-| [iamhamzabaig/News-App](https://github.com/iamhamzabaig/News-App) | repository with 0 stars and 0 forks. | General | stars 0 / forks 0 | Nov 29, 2022 |
+<br/>
 
-</details>
+<div align="center">
 
-<details open>
-<summary><strong>HTML</strong> (7)</summary>
+_⭐️ From [iamhamzabaig](https://github.com/iamhamzabaig) — thanks for stopping by!_
 
-| Repository | Description | Stack | Signals | Updated |
-| --- | --- | --- | --- | --- |
-| [iamhamzabaig/v1](https://github.com/iamhamzabaig/v1) | This is the 1st version of my portfolio website. Feel free to use it. | HTML | stars 0 / forks 0 | May 14, 2024 |
-| [iamhamzabaig/manage-landing-page](https://github.com/iamhamzabaig/manage-landing-page) | HTML repository with 0 stars and 0 forks. | HTML | stars 0 / forks 0 | Nov 17, 2024 |
-| [iamhamzabaig/node-farm](https://github.com/iamhamzabaig/node-farm) | HTML repository with 0 stars and 0 forks. | HTML | stars 0 / forks 0 | Jun 10, 2024 |
-| [iamhamzabaig/mapty](https://github.com/iamhamzabaig/mapty) | HTML repository with 0 stars and 0 forks. | HTML | stars 0 / forks 0 | Jun 07, 2024 |
-| [iamhamzabaig/fee-module](https://github.com/iamhamzabaig/fee-module) | HTML repository with 0 stars and 0 forks. | HTML | stars 0 / forks 0 | Nov 27, 2023 |
-| [iamhamzabaig/angular-learning](https://github.com/iamhamzabaig/angular-learning) | HTML repository with 0 stars and 0 forks. | HTML | stars 0 / forks 0 | Nov 26, 2023 |
-| [iamhamzabaig/testingfiles](https://github.com/iamhamzabaig/testingfiles) | HTML repository with 0 stars and 0 forks. | HTML | stars 0 / forks 0 | Apr 08, 2023 |
-
-</details>
-
-<details open>
-<summary><strong>TypeScript</strong> (7)</summary>
-
-| Repository | Description | Stack | Signals | Updated |
-| --- | --- | --- | --- | --- |
-| [iamhamzabaig/iamhamzabaig.github.io](https://github.com/iamhamzabaig/iamhamzabaig.github.io) | 🚀 Create and deploy a dynamic portfolio by just providing your GitHub username. | TypeScript | stars 0 / forks 0 | May 10, 2024 |
-| [iamhamzabaig/angular-architecture-boilerplate](https://github.com/iamhamzabaig/angular-architecture-boilerplate) | Personalize Project | TypeScript | stars 0 / forks 0 | Apr 26, 2026 |
-| [iamhamzabaig/agent-mesh](https://github.com/iamhamzabaig/agent-mesh) | untime task decomposition and parallel subagent orchestration for Node.js. | TypeScript | stars 0 / forks 0 | Apr 19, 2026 |
-| [iamhamzabaig/snapinp](https://github.com/iamhamzabaig/snapinp) | A tiny library that helps heavy UI interactions feel less frozen. | TypeScript | stars 0 / forks 0 | Apr 15, 2026 |
-| [iamhamzabaig/portfolio-react](https://github.com/iamhamzabaig/portfolio-react) | A portfolio for my work | TypeScript | stars 0 / forks 0 | Aug 30, 2024 |
-| [iamhamzabaig/ims-api](https://github.com/iamhamzabaig/ims-api) | TypeScript repository with 0 stars and 0 forks. | TypeScript | stars 0 / forks 0 | Jun 01, 2026 |
-| [iamhamzabaig/msg-lens](https://github.com/iamhamzabaig/msg-lens) | TypeScript repository with 0 stars and 0 forks. | TypeScript | stars 0 / forks 0 | Apr 10, 2026 |
-
-</details>
-
-<details open>
-<summary><strong>JavaScript</strong> (6)</summary>
-
-| Repository | Description | Stack | Signals | Updated |
-| --- | --- | --- | --- | --- |
-| [iamhamzabaig/portfolio](https://github.com/iamhamzabaig/portfolio) | MERN portfolio — decoupled Express/Mongoose API + React SPA | JavaScript | stars 0 / forks 0 | Jul 07, 2026 |
-| [iamhamzabaig/responsive-web](https://github.com/iamhamzabaig/responsive-web) | A responsive webdesign portfolio | JavaScript | stars 0 / forks 0 | May 30, 2024 |
-| [iamhamzabaig/Image-RetrievalApi-react-native](https://github.com/iamhamzabaig/Image-RetrievalApi-react-native) | This is a simple app which fetch images from external api and then show it in the screen. | JavaScript | stars 0 / forks 0 | Apr 09, 2023 |
-| [iamhamzabaig/worldwise](https://github.com/iamhamzabaig/worldwise) | JavaScript repository with 0 stars and 0 forks. | JavaScript | stars 0 / forks 0 | Sep 22, 2024 |
-| [iamhamzabaig/02.-Atomic-Blog](https://github.com/iamhamzabaig/02.-Atomic-Blog) | JavaScript repository with 0 stars and 0 forks. | JavaScript | stars 0 / forks 0 | Jul 16, 2025 |
-| [iamhamzabaig/split](https://github.com/iamhamzabaig/split) | JavaScript repository with 0 stars and 0 forks. | JavaScript | stars 0 / forks 0 | Sep 03, 2023 |
-
-</details>
-
-<details open>
-<summary><strong>CSS</strong> (4)</summary>
-
-| Repository | Description | Stack | Signals | Updated |
-| --- | --- | --- | --- | --- |
-| [iamhamzabaig/Instaposts](https://github.com/iamhamzabaig/Instaposts) | Just for my instagram channel | CSS | stars 0 / forks 0 | Oct 17, 2024 |
-| [iamhamzabaig/v1-p](https://github.com/iamhamzabaig/v1-p) | Fun template | CSS | stars 0 / forks 0 | May 15, 2024 |
-| [iamhamzabaig/my-portfolio-website](https://github.com/iamhamzabaig/my-portfolio-website) | This is a portfolio website. It is written in html, css, tailwindcss and vanila javascript. | CSS | stars 0 / forks 0 | May 08, 2024 |
-| [iamhamzabaig/react-portfolio](https://github.com/iamhamzabaig/react-portfolio) | CSS repository with 0 stars and 0 forks. | CSS | stars 0 / forks 0 | Dec 31, 2024 |
-
-</details>
-
-## Private Work Summary
-
-11 private repositories were visible to the generator. Their names are intentionally excluded from this public README template.
-
-Private repository language mix: HTML: 2, JavaScript: 2, TypeScript: 2, C#: 1, Other: 1, Python: 1, Rust: 1, Svelte: 1.
-
-## Recent Activity
-
-- iamhamzabaig recently updated iamhamzabaig/iamhamzabaig
-- iamhamzabaig recently updated iamhamzabaig/daily-data-scraper
-- iamhamzabaig recently updated iamhamzabaig/portfolio
-- iamhamzabaig recently updated iamhamzabaig/coolify
-- iamhamzabaig recently updated iamhamzabaig/neon-pgsql
-
----
-
-Generated with GitHub README Builder.
+</div>
