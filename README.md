@@ -1,159 +1,139 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Hamza+%F0%9F%91%8B;Full+Stack+Developer;Angular+%2B+React+%2B+Node.js;Building+ERP+systems+%40+Code+Agrius" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:0EA5E9&height=220&section=header&text=Hamza%20Munawar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Islamabad,%20Pakistan&descAlignY=58&descSize=18" />
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/iamhamzabaig?style=for-the-badge&logo=github&color=2563eb&labelColor=0d1117)](https://github.com/iamhamzabaig?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=iamhamzabaig&style=for-the-badge&color=2563eb&labelColor=0d1117)](https://github.com/iamhamzabaig)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=640&lines=Building+ERP+systems+%40+Code+Agrius;Angular+%C2%B7+React+%C2%B7+Node.js+%C2%B7+MongoDB;Exploring+.NET+%2B+AI-assisted+workflows" alt="Typing SVG" />
+
+<br/><br/>
+
+<a href="https://portfolio-blond-eta-cyyolwe9eu.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logoColor=white" /></a>
+<a href="https://linkedin.com/in/iamhamzabaig"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/iamhamzabaig"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
 <br/>
 
-## 👨‍💻 About Me
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:0EA5E9&height=3" />
 
-```yaml
-name: Hamza Munawar
-location: Islamabad, Pakistan
-role: Fullstack Engineer @ Code Agrius (Agrius IT)
-focus: Nx Monorepo ERP — CRM & HR modules
-currently_learning: .NET (Minimal APIs, Clean Architecture, EF Core)
-fun_fact: turns coffee into full-stack applications ☕
+## &nbsp;🧭&nbsp; About
+
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+
+```ts
+const hamza = {
+  role: "Fullstack Engineer @ Code Agrius",
+  focus: "Nx Monorepo ERP — CRM & HR modules",
+  stack: ["Angular", "React", "Node.js", "Express", "MongoDB", "Docker"],
+  learning: [".NET Minimal APIs", "Clean Architecture", "EF Core"],
+  building: "angular-nx-blueprint — NgRx SignalStore + Material M3",
+  location: "Islamabad, Pakistan 🇵🇰"
+};
 ```
 
-- 🔭 Working on a large-scale **Nx monorepo ERP system** with CRM & HR modules
-- 🌱 Deepening my skills in **.NET Core**, Clean Architecture & EF Core
-- 🛠️ Building **`angular-nx-blueprint`** — a reusable Angular Nx architecture template with NgRx SignalStore
-- 💬 Ask me about **Angular**, **React**, **Node.js/Express**, **MongoDB** or monorepo architecture
-- ⚡ Exploring AI-assisted developer workflows (Claude Code, dual-agent setups)
+</td>
+<td width="40%" valign="top">
 
-<br/>
+&nbsp;
+**🔭 Currently**
+Nx monorepo ERP, CRM & HR
 
-## 🧰 Tech Stack
+**🌱 Learning**
+.NET, Clean Architecture
 
-<div align="center">
+**🛠️ Building**
+`angular-nx-blueprint`
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+**⚡ Exploring**
+AI-assisted dev workflows
 
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=iamhamzabaig&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2563eb&icon_color=2563eb" alt="iamhamzabaig GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhamzabaig&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2563eb" alt="iamhamzabaig top languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamhamzabaig&theme=tokyonight&hide_border=true&background=0d1117&ring=2563eb&fire=2563eb" alt="iamhamzabaig streak stats" />
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center"><b>39</b><br/>Public Repos</td>
-<td align="center"><b>11</b><br/>Private Repos</td>
-<td align="center"><b>8</b><br/>Pull Requests</td>
-<td align="center"><b>891</b><br/>Commits Found</td>
+</td>
 </tr>
 </table>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:2563EB&height=3" />
 
-## 🚀 Featured Projects
+## &nbsp;🧰&nbsp; Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,angular,react,nodejs,express,mongodb,docker,dotnet,cs,html,css,py,rust&theme=dark&perline=7" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:0EA5E9&height=3" />
+
+## &nbsp;📊&nbsp; GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iamhamzabaig&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhamzabaig&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9" />
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamhamzabaig&theme=radical&hide_border=true&background=0d1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamhamzabaig&theme=react-dark&hide_border=true&bg_color=0d1117&color=38BDF8&line=2563EB&point=ffffff" />
+
+</div>
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
-
-### [🌐 portfolio](https://github.com/iamhamzabaig/portfolio)
-MERN portfolio — decoupled Express/Mongoose API + React SPA
-<br/>`JavaScript`
-
-</td>
-<td width="50%">
-
-### [🏗️ angular-architecture-boilerplate](https://github.com/iamhamzabaig/angular-architecture-boilerplate)
-Personalized Angular architecture starter project
-<br/>`TypeScript`
-
-</td>
+<th>Public Repos</th><th>Private Repos</th><th>Pull Requests</th><th>Commits</th>
 </tr>
-<tr>
-<td width="50%">
-
-### [🕸️ agent-mesh](https://github.com/iamhamzabaig/agent-mesh)
-Runtime task decomposition & parallel subagent orchestration for Node.js
-<br/>`TypeScript`
-
-</td>
-<td width="50%">
-
-### [⚡ snapinp](https://github.com/iamhamzabaig/snapinp)
-A tiny library that helps heavy UI interactions feel less frozen
-<br/>`TypeScript`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### [📄 portfolio-next](https://github.com/iamhamzabaig/portfolio-next)
-Personal portfolio built with Next.js and Express
-<br/>`Next.js`
-
-</td>
-<td width="50%">
-
-### [🎬 livecast-clone](https://github.com/iamhamzabaig/livecast-clone)
-A learning project exploring livestream-style UI/UX
-<br/>`JavaScript`
-
-</td>
+<tr align="center">
+<td><b>39</b></td><td><b>11</b></td><td><b>8</b></td><td><b>891</b></td>
 </tr>
 </table>
 
-<br/>
+</div>
 
-## 📁 Repository Language Breakdown
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:2563EB&height=3" />
 
-| Language | Repos | Share |
-|---|---:|---|
-| TypeScript | 9 | ████████░░ |
-| HTML | 9 | ████████░░ |
-| JavaScript | 8 | ███████░░░ |
-| CSS | 4 | ████░░░░░░ |
-| Python | 1 | █░░░░░░░░░ |
-| Rust | 1 | █░░░░░░░░░ |
-| Svelte | 1 | █░░░░░░░░░ |
-| C# | 1 | █░░░░░░░░░ |
-
-<br/>
-
-## 📬 Connect With Me
+## &nbsp;🚀&nbsp; Featured Projects
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamhamzabaig)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-blond-eta-cyyolwe9eu.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamhamzabaig)
+<a href="https://github.com/iamhamzabaig/portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=iamhamzabaig&repo=portfolio&theme=radical&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/iamhamzabaig/angular-architecture-boilerplate">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=iamhamzabaig&repo=angular-architecture-boilerplate&theme=radical&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9" />
+</a>
+
+<a href="https://github.com/iamhamzabaig/agent-mesh">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=iamhamzabaig&repo=agent-mesh&theme=radical&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/iamhamzabaig/snapinp">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=iamhamzabaig&repo=snapinp&theme=radical&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9" />
+</a>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:0EA5E9&height=3" />
+
+## &nbsp;🏆&nbsp; Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=iamhamzabaig&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:2563EB&height=3" />
+
+## &nbsp;📈&nbsp; Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+<sub><i>Note: renders once the <a href="https://github.com/Platane/snk">snake workflow</a> is added to this repo</i></sub>
 
 </div>
 
@@ -161,6 +141,8 @@ A learning project exploring livestream-style UI/UX
 
 <div align="center">
 
-_⭐️ From [iamhamzabaig](https://github.com/iamhamzabaig) — thanks for stopping by!_
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:2563EB,100:0F172A&height=120&section=footer" />
+
+<sub>⭐️ From <a href="https://github.com/iamhamzabaig">iamhamzabaig</a> — thanks for stopping by!</sub>
 
 </div>
