@@ -78,15 +78,53 @@ LLM agents, RAG pipelines
 
 ## &nbsp;🚀&nbsp; Featured Projects
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/iamhamzabaig/agent-mesh"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=iamhamzabaig&repo=agent-mesh&theme=radical&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9" /></a>
-<a href="https://github.com/iamhamzabaig/snapinp"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=iamhamzabaig&repo=snapinp&theme=radical&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9" /></a>
+### 🕸️ [agent-mesh](https://github.com/iamhamzabaig/agent-mesh)
 
-<a href="https://github.com/iamhamzabaig/portfolio"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=iamhamzabaig&repo=portfolio&theme=radical&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9" /></a>
-<a href="https://github.com/iamhamzabaig/portfolio-next"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=iamhamzabaig&repo=portfolio-next&theme=radical&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9" /></a>
+Runtime task decomposition & parallel subagent orchestration for Node.js.
 
-</div>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ [snapinp](https://github.com/iamhamzabaig/snapinp)
+
+Tiny library that helps heavy UI interactions feel less frozen.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Web](https://img.shields.io/badge/Web_Perf-0EA5E9?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💼 [portfolio](https://github.com/iamhamzabaig/portfolio)
+
+MERN portfolio — decoupled Express/Mongoose API + React SPA.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 [portfolio-next](https://github.com/iamhamzabaig/portfolio-next)
+
+Personal portfolio built on Next.js + Express.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:0EA5E9&height=3" />
 
