@@ -108,9 +108,11 @@ LLM agents, RAG pipelines
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/iamhamzabaig/iamhamzabaig/output/github-contribution-grid-snake-dark.svg" />
-
-<sub><i>Note: renders once the <a href="https://github.com/Platane/snk">snake workflow</a> is added to this repo</i></sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/iamhamzabaig/iamhamzabaig@output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/iamhamzabaig/iamhamzabaig@output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://cdn.jsdelivr.net/gh/iamhamzabaig/iamhamzabaig@output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
