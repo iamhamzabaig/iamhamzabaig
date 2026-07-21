@@ -1,6 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:0EA5E9&height=220&section=header&text=Hamza%20Munawar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Islamabad,%20Pakistan&descAlignY=58&descSize=18" />
+# HAMZA MUNAWAR
+
+<img src="https://api.iconify.design/tabler:map-pin-filled.svg?color=%2338BDF8&width=15" valign="middle" />&nbsp;Islamabad, Pakistan &nbsp;•&nbsp;
+<img src="https://api.iconify.design/tabler:briefcase-filled.svg?color=%2338BDF8&width=15" valign="middle" />&nbsp;Fullstack Engineer @ Code Agrius
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:2563EB,100:0EA5E9&height=4" />
 
 <br/>
 
@@ -18,7 +23,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:0EA5E9&height=3" />
 
-## &nbsp;🧭&nbsp; About
+## <img src="https://api.iconify.design/tabler:compass.svg?color=%2338BDF8&width=24" valign="middle" />&nbsp; About
 
 <table width="100%">
 <tr>
@@ -39,16 +44,16 @@ const hamza = {
 <td width="40%" valign="top">
 
 &nbsp;
-**🔭 Currently**
+<img src="https://api.iconify.design/tabler:telescope.svg?color=%2338BDF8&width=16" valign="middle" />&nbsp;**Currently**
 Nx monorepo ERP, CRM & HR
 
-**🌱 Learning**
+<img src="https://api.iconify.design/tabler:seedling.svg?color=%2338BDF8&width=16" valign="middle" />&nbsp;**Learning**
 .NET, Clean Architecture
 
-**🛠️ Building**
+<img src="https://api.iconify.design/tabler:hammer.svg?color=%2338BDF8&width=16" valign="middle" />&nbsp;**Building**
 `angular-nx-blueprint`
 
-**⚡ Exploring**
+<img src="https://api.iconify.design/tabler:bolt-filled.svg?color=%2338BDF8&width=16" valign="middle" />&nbsp;**Exploring**
 AI-assisted dev workflows
 
 </td>
@@ -57,7 +62,7 @@ AI-assisted dev workflows
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:2563EB&height=3" />
 
-## &nbsp;🧰&nbsp; Tech Stack
+## <img src="https://api.iconify.design/tabler:tools.svg?color=%2338BDF8&width=24" valign="middle" />&nbsp; Tech Stack
 
 <div align="center">
 
@@ -67,7 +72,7 @@ AI-assisted dev workflows
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:0EA5E9&height=3" />
 
-## &nbsp;📊&nbsp; GitHub Analytics
+## <img src="https://api.iconify.design/tabler:chart-bar.svg?color=%2338BDF8&width=24" valign="middle" />&nbsp; GitHub Analytics
 
 <div align="center">
 
@@ -95,7 +100,7 @@ AI-assisted dev workflows
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:2563EB&height=3" />
 
-## &nbsp;🚀&nbsp; Featured Projects
+## <img src="https://api.iconify.design/tabler:rocket.svg?color=%2338BDF8&width=24" valign="middle" />&nbsp; Featured Projects
 
 <div align="center">
 
@@ -117,7 +122,7 @@ AI-assisted dev workflows
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:0EA5E9&height=3" />
 
-## &nbsp;🏆&nbsp; Trophies
+## <img src="https://api.iconify.design/tabler:trophy.svg?color=%2338BDF8&width=24" valign="middle" />&nbsp; Trophies
 
 <div align="center">
 
@@ -127,7 +132,7 @@ AI-assisted dev workflows
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:2563EB&height=3" />
 
-## &nbsp;📈&nbsp; Contribution Snake
+## <img src="https://api.iconify.design/tabler:chart-line.svg?color=%2338BDF8&width=24" valign="middle" />&nbsp; Contribution Snake
 
 <div align="center">
 
